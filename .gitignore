@@ -1,2 +1,2 @@
-./node_modules
-./realtime-chat-client/node-node_modules
+node_modules
+realtime-chat-client/node-node_modules
